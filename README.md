@@ -4,8 +4,8 @@ A reader that decorates Readers (such as InputStreamReader) and translates the s
 ##Usage
 `Reader rovarReader = new RovarspraketReader(new InputStreamReader(new FileInputStream(TEXT_PATH ), TEXT_ENCODING));`
 
-(See Test.java for a better usage example)
-[Test.java](./src/Test.java)
+(See [Test.java](./src/Test.java) for a better usage example)
+
 ##Example results
 Decorating a PushbackReader reading this input:
 > "Nåja", sa herr Blomkvist och noppade med överlägsen min av ett grässtrå,
