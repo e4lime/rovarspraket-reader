@@ -18,7 +18,7 @@ Decorating a PushbackReader reading this input:
 > MÄSTERDETEKTIVEN BLOMKVIST, 1946
 
 Yields this result:
-> "Nonåjoja", sosa hoherorror Boblolomomkokvovisostot ocochoh nonopoppopadode momedod övoverorlolägogsosenon mominon avov etottot > gogroräsossostotrorå,
+> "Nonåjoja", sosa hoherorror Boblolomomkokvovisostot ocochoh nonopoppopadode momedod övoverorlolägogsosenon mominon avov etottot  gogroräsossostotrorå,
 > "foföror alollol dodelol, totiototusosenon kokrorononoror äror ocockoksoså popenongogaror. Momenon jojagog soskoka sosägoga eror, unongoge momanon, jojagog arorbobetotaror inontote foföror dodetot sosnonödoda goguloldodetot.
 > Jojagog hoharor etottot enondoda momålol - bobrorotottotsosloligoghohetotenonsos bobekokämompopanondode i vovårortot sosamomhohälollole. Hoherorcoculole Popoirorotot, lolorordod Popetoteror Wowimomsosey ocochoh unondoderortotecockoknonadod,
 > joja, vovi äror foforortotfofaroranondode nonågogrora sostotycockokenon, sosomom inontote totänonkokeror totilollolåtota, atottot kokrorimominonalolitotetotenon fofåror tota övoverorhohanondod."
