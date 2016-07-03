@@ -1,6 +1,8 @@
 # rovarspraket-reader
 A reader that decorates Readers (such as InputStreamReader) and translates the stream to "[Rövarspråket](https://en.wikipedia.org/wiki/R%C3%B6varspr%C3%A5ket)" as described in the Kalle Blomkvist books. Some effort is made to handle different capitalization cases if RovarspraktedReader decorates a PushbackReader.
 
+If you have problems compiling cause of weird characters try add -encoding UTF8
+
 ##Usage
 `Reader rovarReader = new RovarspraketReader(new InputStreamReader(new FileInputStream(TEXT_PATH ), TEXT_ENCODING));`
 
